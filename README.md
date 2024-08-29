@@ -21,9 +21,9 @@ Install the required packages using pip:
 The Knn_2.py script will open a graph similar to the one shown below:
 
 <p align="center">
- <img src="https://github.com/victorrossh/KNN-Classification-Analysis/imagens/graph.png"/>
-  <img src="https://github.com/victorrossh/KNN-Classification-Analysis/imagens/terminal1.png"/>
-   <img src="https://github.com/victorrossh/KNN-Classification-Analysis/imagens/terminal2.png"/>
+ <img src="https://github.com/victorrossh/KNN-Classification-Analysis/blob/main/imagens/graph.png"/>
+  <img src="https://github.com/victorrossh/KNN-Classification-Analysis/blob/main/imagens/terminal1.png"/>
+   <img src="https://github.com/victorrossh/KNN-Classification-Analysis/blob/main/imagens/terminal2.png"/>
 </p>
 
 Review the results and analysis in the output of the scripts.
