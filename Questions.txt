@@ -1,0 +1,24 @@
+THEORY
+---------------
+Question 1: Does the KNN algorithm generate a model? Explain how the implementation of this technique would work in a real operation (production).
+Question 2: Research what other distances can be used in KNN. Show the formula(s).
+Question 3: How would you perform regression to estimate a presumed income (R$) using KNN? Explain.
+
+PRACTICE
+---------------
+Create two Python files: Knn_1.py and Knn_2.py to read the Case_cobranca.csv file that was provided to you (student). 
+Implement the following machine learning models and perform the necessary operations to compare the accuracy and classification error of the models.
+Use the parameter random_state = and set its value using the last 3 digits of your student ID (without leading zeros).
+
+In Knn_1.py, create three different classifiers: Logistic Regression, KNN, and Decision Tree.
+Train the models, compare their accuracy and classification errors, and justify which model offers the best performance.
+---------------
+In Knn_2.py, create a KNN classifier, varying the number of neighbors (n_neighbors).
+Calculate the classification error for different values of k and plot a graph to choose the k value that generates the lowest error.
+
+Questions:
+---------------
+Question 1: Run the Python code Knn_1.py and justify which is the best model for classification.
+Question 2: Run the Python code Knn_2.py and justify which is the best k (n_neighbors) value for your test sample.
+
+----- Submit only one Word file with your answers -----
