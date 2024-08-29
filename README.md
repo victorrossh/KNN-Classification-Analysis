@@ -10,9 +10,14 @@ This repository contains Python code for comparing different classification mode
 **Case_cobranca.csv**: This dataset was provided by my professor for study purposes and contains fictitious data. It includes features such as age, number of debts, and client type.
 
 ## **Instructions** 
+You will need these libraries to run the code. 
+Try executing the following commands to install each library. 
+However, we recommend reading the documentation for each library to ensure proper installation.
 Install the required packages using pip:
-`pip install numpy pandas`
-`pip install --upgrade scikit-learn`
+1. `pip install numpy`
+2. `pip install pandas`
+3. `pip install matplotlib`
+4. `pip install -U scikit-learn` or `pip install --upgrade scikit-learn`
 
 **Note**: scikit-learn might need to be installed or updated to the latest version.
 
