@@ -13,7 +13,7 @@ This repository contains Python code for comparing different classification mode
 You will need these libraries to run the code. 
 Try executing the following commands to install each library. 
 However, we recommend reading the documentation for each library to ensure proper installation.
-Install the required packages using pip:
+- Install the required packages using pip:
 1. `pip install numpy`
 2. `pip install pandas`
 3. `pip install matplotlib`
