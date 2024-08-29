@@ -9,6 +9,10 @@ This repository contains Python code for comparing different classification mode
 
 **Case_cobranca.csv**: This dataset was provided by my professor for study purposes and contains fictitious data. It includes features such as age, number of debts, and client type.
 
+**Questionstxt**: Questions that the professor asked us to answer.
+
+**Answers.pdf**: You can see the result of each question in the PDF file.
+
 ## **Instructions** 
 You will need these libraries to run the code. 
 Try executing the following commands to install each library. 
